@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:stony_peaks"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:basalt_deltas",

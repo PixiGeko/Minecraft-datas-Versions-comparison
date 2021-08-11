@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:extreme_hills",
-    "minecraft:gravelly_hills"
+    "minecraft:stony_peaks"
   ],
   "common": [
     "minecraft:badlands",
@@ -29,6 +28,7 @@
     "minecraft:end_highlands",
     "minecraft:end_midlands",
     "minecraft:eroded_badlands",
+    "minecraft:extreme_hills",
     "minecraft:flower_forest",
     "minecraft:forest",
     "minecraft:frozen_ocean",
@@ -37,6 +37,7 @@
     "minecraft:giant_spruce_taiga_hills",
     "minecraft:giant_tree_taiga",
     "minecraft:giant_tree_taiga_hills",
+    "minecraft:gravelly_hills",
     "minecraft:grove",
     "minecraft:ice_spikes",
     "minecraft:jungle",
@@ -88,9 +89,5 @@
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
-  ],
-  "removed": [
-    "minecraft:gravelly_mountains",
-    "minecraft:mountains"
   ]
 }
