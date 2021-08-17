@@ -2,7 +2,6 @@
   "files": {
     "registries": {
       "changed": [
-        "biome",
         "worldgen - surface_builder"
       ]
     }

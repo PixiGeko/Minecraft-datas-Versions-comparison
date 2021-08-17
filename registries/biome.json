@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:stony_peaks"
-  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",
@@ -74,6 +71,7 @@
     "minecraft:snowy_tundra",
     "minecraft:soul_sand_valley",
     "minecraft:stone_shore",
+    "minecraft:stony_peaks",
     "minecraft:sunflower_plains",
     "minecraft:swamp",
     "minecraft:swamp_hills",

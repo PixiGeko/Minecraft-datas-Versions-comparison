@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:stony_peaks"
+    "minecraft:stone_shore"
   ],
   "common": [
     "minecraft:badlands",
@@ -20,6 +20,7 @@
     "minecraft:snowcapped_peaks",
     "minecraft:snowy_slopes",
     "minecraft:soul_sand_valley",
+    "minecraft:stony_peaks",
     "minecraft:swamp",
     "minecraft:wooded_badlands"
   ]
