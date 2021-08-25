@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_stairs"
+  ],
+  "removed": [
     "oak_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

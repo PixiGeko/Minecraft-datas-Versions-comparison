@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "diorite_stairs"
+  ],
+  "removed": [
     "diorite_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "diorite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

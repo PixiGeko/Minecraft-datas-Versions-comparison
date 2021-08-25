@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "bell"
+  ],
+  "removed": [
     "bell[attachment=floor,facing=north,powered=true]",
     "bell[attachment=floor,facing=north,powered=false]",
     "bell[attachment=floor,facing=south,powered=true]",

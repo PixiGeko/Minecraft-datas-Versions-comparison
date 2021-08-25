@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "deepslate"
+  ],
+  "removed": [
     "deepslate[axis=x]",
     "deepslate[axis=y]",
     "deepslate[axis=z]"

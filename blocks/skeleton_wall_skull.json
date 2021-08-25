@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "skeleton_wall_skull"
+  ],
+  "removed": [
     "skeleton_wall_skull[facing=north]",
     "skeleton_wall_skull[facing=south]",
     "skeleton_wall_skull[facing=west]",

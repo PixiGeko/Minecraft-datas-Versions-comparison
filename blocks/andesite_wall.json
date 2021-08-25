@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "andesite_wall"
+  ],
+  "removed": [
     "andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "andesite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

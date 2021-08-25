@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "fire_coral"
+  ],
+  "removed": [
     "fire_coral[waterlogged=true]",
     "fire_coral[waterlogged=false]"
   ]

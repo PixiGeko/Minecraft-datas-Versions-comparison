@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "purpur_stairs"
+  ],
+  "removed": [
     "purpur_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "purpur_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "purpur_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

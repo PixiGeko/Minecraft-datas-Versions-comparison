@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "brown_banner"
+  ],
+  "removed": [
     "brown_banner[rotation=0]",
     "brown_banner[rotation=1]",
     "brown_banner[rotation=2]",

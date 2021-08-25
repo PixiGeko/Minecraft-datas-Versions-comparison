@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "zombie_head"
+  ],
+  "removed": [
     "zombie_head[rotation=0]",
     "zombie_head[rotation=1]",
     "zombie_head[rotation=2]",

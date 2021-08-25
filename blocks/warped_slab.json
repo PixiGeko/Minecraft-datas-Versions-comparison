@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "warped_slab"
+  ],
+  "removed": [
     "warped_slab[type=top,waterlogged=true]",
     "warped_slab[type=top,waterlogged=false]",
     "warped_slab[type=bottom,waterlogged=true]",

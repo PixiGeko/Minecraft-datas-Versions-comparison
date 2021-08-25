@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "exposed_cut_copper_stairs"
+  ],
+  "removed": [
     "exposed_cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "exposed_cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "exposed_cut_copper_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

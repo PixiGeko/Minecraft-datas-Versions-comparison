@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "creeper_head"
+  ],
+  "removed": [
     "creeper_head[rotation=0]",
     "creeper_head[rotation=1]",
     "creeper_head[rotation=2]",

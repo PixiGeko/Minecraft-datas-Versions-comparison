@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "lever"
+  ],
+  "removed": [
     "lever[face=floor,facing=north,powered=true]",
     "lever[face=floor,facing=north,powered=false]",
     "lever[face=floor,facing=south,powered=true]",

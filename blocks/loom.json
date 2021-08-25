@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "loom"
+  ],
+  "removed": [
     "loom[facing=north]",
     "loom[facing=south]",
     "loom[facing=west]",

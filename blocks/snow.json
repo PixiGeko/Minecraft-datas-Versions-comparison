@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "snow"
+  ],
+  "removed": [
     "snow[layers=1]",
     "snow[layers=2]",
     "snow[layers=3]",

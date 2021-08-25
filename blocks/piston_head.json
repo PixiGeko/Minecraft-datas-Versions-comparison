@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "piston_head"
+  ],
+  "removed": [
     "piston_head[facing=north,short=true,type=normal]",
     "piston_head[facing=north,short=true,type=sticky]",
     "piston_head[facing=north,short=false,type=normal]",

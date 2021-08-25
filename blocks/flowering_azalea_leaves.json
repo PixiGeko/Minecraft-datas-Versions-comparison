@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "flowering_azalea_leaves"
+  ],
+  "removed": [
     "flowering_azalea_leaves[distance=1,persistent=true]",
     "flowering_azalea_leaves[distance=1,persistent=false]",
     "flowering_azalea_leaves[distance=2,persistent=true]",

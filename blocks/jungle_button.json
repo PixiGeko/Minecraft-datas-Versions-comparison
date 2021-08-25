@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_button"
+  ],
+  "removed": [
     "jungle_button[face=floor,facing=north,powered=true]",
     "jungle_button[face=floor,facing=north,powered=false]",
     "jungle_button[face=floor,facing=south,powered=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "powered_rail"
+  ],
+  "removed": [
     "powered_rail[powered=true,shape=north_south,waterlogged=true]",
     "powered_rail[powered=true,shape=north_south,waterlogged=false]",
     "powered_rail[powered=true,shape=east_west,waterlogged=true]",

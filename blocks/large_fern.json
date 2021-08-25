@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "large_fern"
+  ],
+  "removed": [
     "large_fern[half=upper]",
     "large_fern[half=lower]"
   ]

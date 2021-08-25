@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "red_nether_brick_wall"
+  ],
+  "removed": [
     "red_nether_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "red_nether_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "red_nether_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

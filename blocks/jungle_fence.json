@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_fence"
+  ],
+  "removed": [
     "jungle_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "jungle_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "jungle_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

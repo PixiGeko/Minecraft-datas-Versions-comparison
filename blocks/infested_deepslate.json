@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "infested_deepslate"
+  ],
+  "removed": [
     "infested_deepslate[axis=x]",
     "infested_deepslate[axis=y]",
     "infested_deepslate[axis=z]"

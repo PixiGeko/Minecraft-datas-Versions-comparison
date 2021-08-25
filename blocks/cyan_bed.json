@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "cyan_bed"
+  ],
+  "removed": [
     "cyan_bed[facing=north,occupied=true,part=head]",
     "cyan_bed[facing=north,occupied=true,part=foot]",
     "cyan_bed[facing=north,occupied=false,part=head]",

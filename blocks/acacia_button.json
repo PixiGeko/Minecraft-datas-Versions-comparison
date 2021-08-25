@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "acacia_button"
+  ],
+  "removed": [
     "acacia_button[face=floor,facing=north,powered=true]",
     "acacia_button[face=floor,facing=north,powered=false]",
     "acacia_button[face=floor,facing=south,powered=true]",

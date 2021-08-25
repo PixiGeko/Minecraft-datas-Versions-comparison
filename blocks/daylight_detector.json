@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "daylight_detector"
+  ],
+  "removed": [
     "daylight_detector[inverted=true,power=0]",
     "daylight_detector[inverted=true,power=1]",
     "daylight_detector[inverted=true,power=2]",

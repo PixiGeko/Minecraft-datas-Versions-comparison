@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "comparator"
+  ],
+  "removed": [
     "comparator[facing=north,mode=compare,powered=true]",
     "comparator[facing=north,mode=compare,powered=false]",
     "comparator[facing=north,mode=subtract,powered=true]",

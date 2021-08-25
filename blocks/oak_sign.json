@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_sign"
+  ],
+  "removed": [
     "oak_sign[rotation=0,waterlogged=true]",
     "oak_sign[rotation=0,waterlogged=false]",
     "oak_sign[rotation=1,waterlogged=true]",

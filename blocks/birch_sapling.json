@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "birch_sapling"
+  ],
+  "removed": [
     "birch_sapling[stage=0]",
     "birch_sapling[stage=1]"
   ]

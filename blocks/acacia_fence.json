@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "acacia_fence"
+  ],
+  "removed": [
     "acacia_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "acacia_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "acacia_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "andesite_stairs"
+  ],
+  "removed": [
     "andesite_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "andesite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "andesite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

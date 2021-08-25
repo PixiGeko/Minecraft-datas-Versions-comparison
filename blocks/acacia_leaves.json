@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "acacia_leaves"
+  ],
+  "removed": [
     "acacia_leaves[distance=1,persistent=true]",
     "acacia_leaves[distance=1,persistent=false]",
     "acacia_leaves[distance=2,persistent=true]",

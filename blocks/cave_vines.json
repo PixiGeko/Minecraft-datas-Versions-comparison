@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "cave_vines"
+  ],
+  "removed": [
     "cave_vines[age=0,berries=true]",
     "cave_vines[age=0,berries=false]",
     "cave_vines[age=1,berries=true]",

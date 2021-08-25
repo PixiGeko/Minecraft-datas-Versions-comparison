@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_button"
+  ],
+  "removed": [
     "crimson_button[face=floor,facing=north,powered=true]",
     "crimson_button[face=floor,facing=north,powered=false]",
     "crimson_button[face=floor,facing=south,powered=true]",

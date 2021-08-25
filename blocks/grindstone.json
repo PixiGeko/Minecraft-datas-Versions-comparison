@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "grindstone"
+  ],
+  "removed": [
     "grindstone[face=floor,facing=north]",
     "grindstone[face=floor,facing=south]",
     "grindstone[face=floor,facing=west]",

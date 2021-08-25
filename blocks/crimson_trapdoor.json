@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_trapdoor"
+  ],
+  "removed": [
     "crimson_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
     "crimson_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
     "crimson_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",

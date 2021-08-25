@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dead_bubble_coral"
+  ],
+  "removed": [
     "dead_bubble_coral[waterlogged=true]",
     "dead_bubble_coral[waterlogged=false]"
   ]

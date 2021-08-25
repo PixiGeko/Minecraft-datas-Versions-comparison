@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "vine"
+  ],
+  "removed": [
     "vine[east=true,north=true,south=true,up=true,west=true]",
     "vine[east=true,north=true,south=true,up=true,west=false]",
     "vine[east=true,north=true,south=true,up=false,west=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_log"
+  ],
+  "removed": [
     "jungle_log[axis=x]",
     "jungle_log[axis=y]",
     "jungle_log[axis=z]"

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "mushroom_stem"
+  ],
+  "removed": [
     "mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]",
     "mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=false]",
     "mushroom_stem[down=true,east=true,north=true,south=true,up=false,west=true]",

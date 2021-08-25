@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "birch_sign"
+  ],
+  "removed": [
     "birch_sign[rotation=0,waterlogged=true]",
     "birch_sign[rotation=0,waterlogged=false]",
     "birch_sign[rotation=1,waterlogged=true]",

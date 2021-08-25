@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "nether_brick_fence"
+  ],
+  "removed": [
     "nether_brick_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "nether_brick_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "nether_brick_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

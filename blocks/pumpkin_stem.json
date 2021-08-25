@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "pumpkin_stem"
+  ],
+  "removed": [
     "pumpkin_stem[age=0]",
     "pumpkin_stem[age=1]",
     "pumpkin_stem[age=2]",

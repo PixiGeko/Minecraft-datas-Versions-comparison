@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_wall_sign"
+  ],
+  "removed": [
     "crimson_wall_sign[facing=north,waterlogged=true]",
     "crimson_wall_sign[facing=north,waterlogged=false]",
     "crimson_wall_sign[facing=south,waterlogged=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "water"
+  ],
+  "removed": [
     "water[level=0]",
     "water[level=1]",
     "water[level=2]",

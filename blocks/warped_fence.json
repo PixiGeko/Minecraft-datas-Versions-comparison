@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "warped_fence"
+  ],
+  "removed": [
     "warped_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "warped_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "warped_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

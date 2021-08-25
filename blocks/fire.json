@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "fire"
+  ],
+  "removed": [
     "fire[age=0,east=true,north=true,south=true,up=true,west=true]",
     "fire[age=0,east=true,north=true,south=true,up=true,west=false]",
     "fire[age=0,east=true,north=true,south=true,up=false,west=true]",

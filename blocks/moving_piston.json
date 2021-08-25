@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "moving_piston"
+  ],
+  "removed": [
     "moving_piston[facing=north,type=normal]",
     "moving_piston[facing=north,type=sticky]",
     "moving_piston[facing=east,type=normal]",

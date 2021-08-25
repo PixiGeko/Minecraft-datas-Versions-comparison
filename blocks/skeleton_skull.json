@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "skeleton_skull"
+  ],
+  "removed": [
     "skeleton_skull[rotation=0]",
     "skeleton_skull[rotation=1]",
     "skeleton_skull[rotation=2]",

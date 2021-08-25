@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "end_stone_brick_wall"
+  ],
+  "removed": [
     "end_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "end_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "end_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "podzol"
+  ],
+  "removed": [
     "podzol[snowy=true]",
     "podzol[snowy=false]"
   ]

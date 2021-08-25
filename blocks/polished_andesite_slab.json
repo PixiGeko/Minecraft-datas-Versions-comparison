@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "polished_andesite_slab"
+  ],
+  "removed": [
     "polished_andesite_slab[type=top,waterlogged=true]",
     "polished_andesite_slab[type=top,waterlogged=false]",
     "polished_andesite_slab[type=bottom,waterlogged=true]",

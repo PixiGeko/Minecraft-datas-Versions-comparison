@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "polished_blackstone_button"
+  ],
+  "removed": [
     "polished_blackstone_button[face=floor,facing=north,powered=true]",
     "polished_blackstone_button[face=floor,facing=north,powered=false]",
     "polished_blackstone_button[face=floor,facing=south,powered=true]",

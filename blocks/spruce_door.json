@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "spruce_door"
+  ],
+  "removed": [
     "spruce_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "spruce_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "spruce_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "warped_stairs"
+  ],
+  "removed": [
     "warped_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "warped_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "warped_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

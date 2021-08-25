@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "iron_door"
+  ],
+  "removed": [
     "iron_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "iron_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "iron_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

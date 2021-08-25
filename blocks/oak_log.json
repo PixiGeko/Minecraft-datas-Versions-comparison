@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_log"
+  ],
+  "removed": [
     "oak_log[axis=x]",
     "oak_log[axis=y]",
     "oak_log[axis=z]"

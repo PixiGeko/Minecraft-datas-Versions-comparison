@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "sunflower"
+  ],
+  "removed": [
     "sunflower[half=upper]",
     "sunflower[half=lower]"
   ]

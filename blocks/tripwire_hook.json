@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "tripwire_hook"
+  ],
+  "removed": [
     "tripwire_hook[attached=true,facing=north,powered=true]",
     "tripwire_hook[attached=true,facing=north,powered=false]",
     "tripwire_hook[attached=true,facing=south,powered=true]",

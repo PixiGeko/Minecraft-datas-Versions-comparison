@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "tall_seagrass"
+  ],
+  "removed": [
     "tall_seagrass[half=upper]",
     "tall_seagrass[half=lower]"
   ]

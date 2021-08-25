@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dropper"
+  ],
+  "removed": [
     "dropper[facing=north,triggered=true]",
     "dropper[facing=north,triggered=false]",
     "dropper[facing=east,triggered=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dark_oak_sign"
+  ],
+  "removed": [
     "dark_oak_sign[rotation=0,waterlogged=true]",
     "dark_oak_sign[rotation=0,waterlogged=false]",
     "dark_oak_sign[rotation=1,waterlogged=true]",

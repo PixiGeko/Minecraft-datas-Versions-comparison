@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "carved_pumpkin"
+  ],
+  "removed": [
     "carved_pumpkin[facing=north]",
     "carved_pumpkin[facing=south]",
     "carved_pumpkin[facing=west]",

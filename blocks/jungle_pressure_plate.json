@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_pressure_plate"
+  ],
+  "removed": [
     "jungle_pressure_plate[powered=true]",
     "jungle_pressure_plate[powered=false]"
   ]

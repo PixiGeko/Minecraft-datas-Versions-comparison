@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "cake"
+  ],
+  "removed": [
     "cake[bites=0]",
     "cake[bites=1]",
     "cake[bites=2]",

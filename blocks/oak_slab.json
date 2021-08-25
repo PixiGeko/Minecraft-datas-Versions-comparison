@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_slab"
+  ],
+  "removed": [
     "oak_slab[type=top,waterlogged=true]",
     "oak_slab[type=top,waterlogged=false]",
     "oak_slab[type=bottom,waterlogged=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "potatoes"
+  ],
+  "removed": [
     "potatoes[age=0]",
     "potatoes[age=1]",
     "potatoes[age=2]",

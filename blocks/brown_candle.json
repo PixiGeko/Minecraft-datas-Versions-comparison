@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "brown_candle"
+  ],
+  "removed": [
     "brown_candle[candles=1,lit=true,waterlogged=true]",
     "brown_candle[candles=1,lit=true,waterlogged=false]",
     "brown_candle[candles=1,lit=false,waterlogged=true]",

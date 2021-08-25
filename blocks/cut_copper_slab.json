@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "cut_copper_slab"
+  ],
+  "removed": [
     "cut_copper_slab[type=top,waterlogged=true]",
     "cut_copper_slab[type=top,waterlogged=false]",
     "cut_copper_slab[type=bottom,waterlogged=true]",

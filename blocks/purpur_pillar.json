@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "purpur_pillar"
+  ],
+  "removed": [
     "purpur_pillar[axis=x]",
     "purpur_pillar[axis=y]",
     "purpur_pillar[axis=z]"

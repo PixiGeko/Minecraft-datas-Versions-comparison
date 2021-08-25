@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "warped_pressure_plate"
+  ],
+  "removed": [
     "warped_pressure_plate[powered=true]",
     "warped_pressure_plate[powered=false]"
   ]

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "sugar_cane"
+  ],
+  "removed": [
     "sugar_cane[age=0]",
     "sugar_cane[age=1]",
     "sugar_cane[age=2]",

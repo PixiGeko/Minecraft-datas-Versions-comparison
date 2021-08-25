@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "acacia_sign"
+  ],
+  "removed": [
     "acacia_sign[rotation=0,waterlogged=true]",
     "acacia_sign[rotation=0,waterlogged=false]",
     "acacia_sign[rotation=1,waterlogged=true]",

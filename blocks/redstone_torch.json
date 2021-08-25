@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "redstone_torch"
+  ],
+  "removed": [
     "redstone_torch[lit=true]",
     "redstone_torch[lit=false]"
   ]

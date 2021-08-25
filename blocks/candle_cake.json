@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "candle_cake"
+  ],
+  "removed": [
     "candle_cake[lit=true]",
     "candle_cake[lit=false]"
   ]

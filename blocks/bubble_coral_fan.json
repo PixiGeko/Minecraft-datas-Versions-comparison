@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "bubble_coral_fan"
+  ],
+  "removed": [
     "bubble_coral_fan[waterlogged=true]",
     "bubble_coral_fan[waterlogged=false]"
   ]

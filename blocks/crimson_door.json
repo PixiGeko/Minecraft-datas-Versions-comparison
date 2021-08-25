@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_door"
+  ],
+  "removed": [
     "crimson_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "crimson_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "crimson_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

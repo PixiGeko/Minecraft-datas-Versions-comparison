@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "furnace"
+  ],
+  "removed": [
     "furnace[facing=north,lit=true]",
     "furnace[facing=north,lit=false]",
     "furnace[facing=south,lit=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "birch_wall_sign"
+  ],
+  "removed": [
     "birch_wall_sign[facing=north,waterlogged=true]",
     "birch_wall_sign[facing=north,waterlogged=false]",
     "birch_wall_sign[facing=south,waterlogged=true]",

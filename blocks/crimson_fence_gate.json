@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_fence_gate"
+  ],
+  "removed": [
     "crimson_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
     "crimson_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
     "crimson_fence_gate[facing=north,in_wall=true,open=false,powered=true]",

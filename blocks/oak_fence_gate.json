@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_fence_gate"
+  ],
+  "removed": [
     "oak_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
     "oak_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
     "oak_fence_gate[facing=north,in_wall=true,open=false,powered=true]",

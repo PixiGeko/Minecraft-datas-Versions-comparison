@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "acacia_pressure_plate"
+  ],
+  "removed": [
     "acacia_pressure_plate[powered=true]",
     "acacia_pressure_plate[powered=false]"
   ]

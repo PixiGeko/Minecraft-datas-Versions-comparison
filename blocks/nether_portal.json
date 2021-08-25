@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "nether_portal"
+  ],
+  "removed": [
     "nether_portal[axis=x]",
     "nether_portal[axis=z]"
   ]

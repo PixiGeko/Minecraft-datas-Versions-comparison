@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dragon_wall_head"
+  ],
+  "removed": [
     "dragon_wall_head[facing=north]",
     "dragon_wall_head[facing=south]",
     "dragon_wall_head[facing=west]",

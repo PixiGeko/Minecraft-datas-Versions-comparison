@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "sandstone_wall"
+  ],
+  "removed": [
     "sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "prismarine_wall"
+  ],
+  "removed": [
     "prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "prismarine_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

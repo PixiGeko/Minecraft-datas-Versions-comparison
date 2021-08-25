@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "light_blue_stained_glass_pane"
+  ],
+  "removed": [
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

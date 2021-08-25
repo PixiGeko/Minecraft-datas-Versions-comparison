@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "activator_rail"
+  ],
+  "removed": [
     "activator_rail[powered=true,shape=north_south,waterlogged=true]",
     "activator_rail[powered=true,shape=north_south,waterlogged=false]",
     "activator_rail[powered=true,shape=east_west,waterlogged=true]",

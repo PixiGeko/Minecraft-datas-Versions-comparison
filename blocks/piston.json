@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "piston"
+  ],
+  "removed": [
     "piston[extended=true,facing=north]",
     "piston[extended=true,facing=east]",
     "piston[extended=true,facing=south]",

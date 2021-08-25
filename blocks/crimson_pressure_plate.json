@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_pressure_plate"
+  ],
+  "removed": [
     "crimson_pressure_plate[powered=true]",
     "crimson_pressure_plate[powered=false]"
   ]

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_sign"
+  ],
+  "removed": [
     "jungle_sign[rotation=0,waterlogged=true]",
     "jungle_sign[rotation=0,waterlogged=false]",
     "jungle_sign[rotation=1,waterlogged=true]",

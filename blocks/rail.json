@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "rail"
+  ],
+  "removed": [
     "rail[shape=north_south,waterlogged=true]",
     "rail[shape=north_south,waterlogged=false]",
     "rail[shape=east_west,waterlogged=true]",

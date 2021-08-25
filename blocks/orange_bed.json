@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "orange_bed"
+  ],
+  "removed": [
     "orange_bed[facing=north,occupied=true,part=head]",
     "orange_bed[facing=north,occupied=true,part=foot]",
     "orange_bed[facing=north,occupied=false,part=head]",

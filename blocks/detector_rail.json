@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "detector_rail"
+  ],
+  "removed": [
     "detector_rail[powered=true,shape=north_south,waterlogged=true]",
     "detector_rail[powered=true,shape=north_south,waterlogged=false]",
     "detector_rail[powered=true,shape=east_west,waterlogged=true]",

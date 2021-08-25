@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "light_gray_shulker_box"
+  ],
+  "removed": [
     "light_gray_shulker_box[facing=north]",
     "light_gray_shulker_box[facing=east]",
     "light_gray_shulker_box[facing=south]",

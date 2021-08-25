@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "polished_blackstone_brick_stairs"
+  ],
+  "removed": [
     "polished_blackstone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "polished_blackstone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "polished_blackstone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "quartz_slab"
+  ],
+  "removed": [
     "quartz_slab[type=top,waterlogged=true]",
     "quartz_slab[type=top,waterlogged=false]",
     "quartz_slab[type=bottom,waterlogged=true]",

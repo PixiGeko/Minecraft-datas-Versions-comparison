@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "trapped_chest"
+  ],
+  "removed": [
     "trapped_chest[facing=north,type=single,waterlogged=true]",
     "trapped_chest[facing=north,type=single,waterlogged=false]",
     "trapped_chest[facing=north,type=left,waterlogged=true]",

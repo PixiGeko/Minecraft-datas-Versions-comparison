@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "command_block"
+  ],
+  "removed": [
     "command_block[conditional=true,facing=north]",
     "command_block[conditional=true,facing=east]",
     "command_block[conditional=true,facing=south]",

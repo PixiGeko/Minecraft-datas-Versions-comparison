@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "smooth_sandstone_slab"
+  ],
+  "removed": [
     "smooth_sandstone_slab[type=top,waterlogged=true]",
     "smooth_sandstone_slab[type=top,waterlogged=false]",
     "smooth_sandstone_slab[type=bottom,waterlogged=true]",

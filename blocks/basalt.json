@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "basalt"
+  ],
+  "removed": [
     "basalt[axis=x]",
     "basalt[axis=y]",
     "basalt[axis=z]"

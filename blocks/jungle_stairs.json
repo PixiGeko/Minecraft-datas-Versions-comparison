@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_stairs"
+  ],
+  "removed": [
     "jungle_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "jungle_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "jungle_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

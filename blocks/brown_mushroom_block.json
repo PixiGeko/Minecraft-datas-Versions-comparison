@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "brown_mushroom_block"
+  ],
+  "removed": [
     "brown_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=true]",
     "brown_mushroom_block[down=true,east=true,north=true,south=true,up=true,west=false]",
     "brown_mushroom_block[down=true,east=true,north=true,south=true,up=false,west=true]",

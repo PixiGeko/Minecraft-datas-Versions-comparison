@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "blackstone_wall"
+  ],
+  "removed": [
     "blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "blackstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

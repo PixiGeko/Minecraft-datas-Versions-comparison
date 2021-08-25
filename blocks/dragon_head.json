@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dragon_head"
+  ],
+  "removed": [
     "dragon_head[rotation=0]",
     "dragon_head[rotation=1]",
     "dragon_head[rotation=2]",

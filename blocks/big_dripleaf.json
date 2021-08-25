@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "big_dripleaf"
+  ],
+  "removed": [
     "big_dripleaf[facing=north,tilt=none,waterlogged=true]",
     "big_dripleaf[facing=north,tilt=none,waterlogged=false]",
     "big_dripleaf[facing=north,tilt=unstable,waterlogged=true]",

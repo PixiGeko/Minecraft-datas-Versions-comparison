@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "birch_pressure_plate"
+  ],
+  "removed": [
     "birch_pressure_plate[powered=true]",
     "birch_pressure_plate[powered=false]"
   ]

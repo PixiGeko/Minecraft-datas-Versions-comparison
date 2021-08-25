@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_slab"
+  ],
+  "removed": [
     "crimson_slab[type=top,waterlogged=true]",
     "crimson_slab[type=top,waterlogged=false]",
     "crimson_slab[type=bottom,waterlogged=true]",

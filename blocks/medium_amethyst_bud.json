@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "medium_amethyst_bud"
+  ],
+  "removed": [
     "medium_amethyst_bud[facing=north,waterlogged=true]",
     "medium_amethyst_bud[facing=north,waterlogged=false]",
     "medium_amethyst_bud[facing=east,waterlogged=true]",

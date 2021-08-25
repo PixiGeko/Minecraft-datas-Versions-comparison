@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "tall_grass"
+  ],
+  "removed": [
     "tall_grass[half=upper]",
     "tall_grass[half=lower]"
   ]

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "crimson_sign"
+  ],
+  "removed": [
     "crimson_sign[rotation=0,waterlogged=true]",
     "crimson_sign[rotation=0,waterlogged=false]",
     "crimson_sign[rotation=1,waterlogged=true]",

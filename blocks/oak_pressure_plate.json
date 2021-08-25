@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "oak_pressure_plate"
+  ],
+  "removed": [
     "oak_pressure_plate[powered=true]",
     "oak_pressure_plate[powered=false]"
   ]

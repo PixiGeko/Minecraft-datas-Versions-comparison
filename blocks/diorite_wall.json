@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "diorite_wall"
+  ],
+  "removed": [
     "diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "diorite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "end_rod"
+  ],
+  "removed": [
     "end_rod[facing=north]",
     "end_rod[facing=east]",
     "end_rod[facing=south]",

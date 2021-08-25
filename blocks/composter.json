@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "composter"
+  ],
+  "removed": [
     "composter[level=0]",
     "composter[level=1]",
     "composter[level=2]",

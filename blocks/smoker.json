@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "smoker"
+  ],
+  "removed": [
     "smoker[facing=north,lit=true]",
     "smoker[facing=north,lit=false]",
     "smoker[facing=south,lit=true]",

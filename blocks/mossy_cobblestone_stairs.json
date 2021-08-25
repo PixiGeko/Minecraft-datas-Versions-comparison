@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "mossy_cobblestone_stairs"
+  ],
+  "removed": [
     "mossy_cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "mossy_cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "mossy_cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

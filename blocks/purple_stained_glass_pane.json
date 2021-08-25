@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "purple_stained_glass_pane"
+  ],
+  "removed": [
     "purple_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "purple_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "purple_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "spruce_log"
+  ],
+  "removed": [
     "spruce_log[axis=x]",
     "spruce_log[axis=y]",
     "spruce_log[axis=z]"

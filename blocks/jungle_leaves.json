@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "jungle_leaves"
+  ],
+  "removed": [
     "jungle_leaves[distance=1,persistent=true]",
     "jungle_leaves[distance=1,persistent=false]",
     "jungle_leaves[distance=2,persistent=true]",

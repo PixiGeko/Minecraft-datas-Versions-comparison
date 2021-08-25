@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "hopper"
+  ],
+  "removed": [
     "hopper[enabled=true,facing=down]",
     "hopper[enabled=true,facing=north]",
     "hopper[enabled=true,facing=south]",

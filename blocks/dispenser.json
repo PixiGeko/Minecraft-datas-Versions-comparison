@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "dispenser"
+  ],
+  "removed": [
     "dispenser[facing=north,triggered=true]",
     "dispenser[facing=north,triggered=false]",
     "dispenser[facing=east,triggered=true]",

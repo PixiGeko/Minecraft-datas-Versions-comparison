@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "creeper_wall_head"
+  ],
+  "removed": [
     "creeper_wall_head[facing=north]",
     "creeper_wall_head[facing=south]",
     "creeper_wall_head[facing=west]",

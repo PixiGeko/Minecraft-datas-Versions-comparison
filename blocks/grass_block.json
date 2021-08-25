@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "grass_block"
+  ],
+  "removed": [
     "grass_block[snowy=true]",
     "grass_block[snowy=false]"
   ]

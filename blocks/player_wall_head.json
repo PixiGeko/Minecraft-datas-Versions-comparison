@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "player_wall_head"
+  ],
+  "removed": [
     "player_wall_head[facing=north]",
     "player_wall_head[facing=south]",
     "player_wall_head[facing=west]",

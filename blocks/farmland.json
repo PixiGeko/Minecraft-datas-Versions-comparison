@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "farmland"
+  ],
+  "removed": [
     "farmland[moisture=0]",
     "farmland[moisture=1]",
     "farmland[moisture=2]",

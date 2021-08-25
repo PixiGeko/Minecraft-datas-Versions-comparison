@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "blue_bed"
+  ],
+  "removed": [
     "blue_bed[facing=north,occupied=true,part=head]",
     "blue_bed[facing=north,occupied=true,part=foot]",
     "blue_bed[facing=north,occupied=false,part=head]",

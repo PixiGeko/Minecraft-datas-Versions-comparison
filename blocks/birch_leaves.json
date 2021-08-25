@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "birch_leaves"
+  ],
+  "removed": [
     "birch_leaves[distance=1,persistent=true]",
     "birch_leaves[distance=1,persistent=false]",
     "birch_leaves[distance=2,persistent=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "mossy_cobblestone_slab"
+  ],
+  "removed": [
     "mossy_cobblestone_slab[type=top,waterlogged=true]",
     "mossy_cobblestone_slab[type=top,waterlogged=false]",
     "mossy_cobblestone_slab[type=bottom,waterlogged=true]",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "soul_lantern"
+  ],
+  "removed": [
     "soul_lantern[hanging=true,waterlogged=true]",
     "soul_lantern[hanging=true,waterlogged=false]",
     "soul_lantern[hanging=false,waterlogged=true]",

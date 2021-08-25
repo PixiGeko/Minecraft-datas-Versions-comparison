@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "melon_stem"
+  ],
+  "removed": [
     "melon_stem[age=0]",
     "melon_stem[age=1]",
     "melon_stem[age=2]",

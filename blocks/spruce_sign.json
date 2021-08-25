@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "spruce_sign"
+  ],
+  "removed": [
     "spruce_sign[rotation=0,waterlogged=true]",
     "spruce_sign[rotation=0,waterlogged=false]",
     "spruce_sign[rotation=1,waterlogged=true]",
