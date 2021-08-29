@@ -1,8 +1,5 @@
 {
-  "added": [
-    "chorus_plant"
-  ],
-  "removed": [
+  "common": [
     "chorus_plant[down=true,east=true,north=true,south=true,up=true,west=true]",
     "chorus_plant[down=true,east=true,north=true,south=true,up=true,west=false]",
     "chorus_plant[down=true,east=true,north=true,south=true,up=false,west=true]",

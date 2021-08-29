@@ -1,8 +1,5 @@
 {
-  "added": [
-    "rose_bush"
-  ],
-  "removed": [
+  "common": [
     "rose_bush[half=upper]",
     "rose_bush[half=lower]"
   ]

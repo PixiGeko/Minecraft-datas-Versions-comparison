@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jungle_fence_gate"
-  ],
-  "removed": [
+  "common": [
     "jungle_fence_gate[facing=north,in_wall=true,open=true,powered=true]",
     "jungle_fence_gate[facing=north,in_wall=true,open=true,powered=false]",
     "jungle_fence_gate[facing=north,in_wall=true,open=false,powered=true]",

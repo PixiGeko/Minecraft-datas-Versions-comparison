@@ -1,8 +1,5 @@
 {
-  "added": [
-    "scaffolding"
-  ],
-  "removed": [
+  "common": [
     "scaffolding[bottom=true,distance=0,waterlogged=true]",
     "scaffolding[bottom=true,distance=0,waterlogged=false]",
     "scaffolding[bottom=true,distance=1,waterlogged=true]",

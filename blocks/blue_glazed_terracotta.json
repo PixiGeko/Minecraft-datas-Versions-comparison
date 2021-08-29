@@ -1,8 +1,5 @@
 {
-  "added": [
-    "blue_glazed_terracotta"
-  ],
-  "removed": [
+  "common": [
     "blue_glazed_terracotta[facing=north]",
     "blue_glazed_terracotta[facing=south]",
     "blue_glazed_terracotta[facing=west]",

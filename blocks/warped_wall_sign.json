@@ -1,8 +1,5 @@
 {
-  "added": [
-    "warped_wall_sign"
-  ],
-  "removed": [
+  "common": [
     "warped_wall_sign[facing=north,waterlogged=true]",
     "warped_wall_sign[facing=north,waterlogged=false]",
     "warped_wall_sign[facing=south,waterlogged=true]",

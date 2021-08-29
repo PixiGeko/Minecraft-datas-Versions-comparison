@@ -1,8 +1,5 @@
 {
-  "added": [
-    "player_head"
-  ],
-  "removed": [
+  "common": [
     "player_head[rotation=0]",
     "player_head[rotation=1]",
     "player_head[rotation=2]",

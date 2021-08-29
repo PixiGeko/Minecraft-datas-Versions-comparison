@@ -1,8 +1,5 @@
 {
-  "added": [
-    "horn_coral_fan"
-  ],
-  "removed": [
+  "common": [
     "horn_coral_fan[waterlogged=true]",
     "horn_coral_fan[waterlogged=false]"
   ]

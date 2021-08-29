@@ -1,8 +1,5 @@
 {
-  "added": [
-    "weeping_vines"
-  ],
-  "removed": [
+  "common": [
     "weeping_vines[age=0]",
     "weeping_vines[age=1]",
     "weeping_vines[age=2]",

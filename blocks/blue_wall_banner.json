@@ -1,8 +1,5 @@
 {
-  "added": [
-    "blue_wall_banner"
-  ],
-  "removed": [
+  "common": [
     "blue_wall_banner[facing=north]",
     "blue_wall_banner[facing=south]",
     "blue_wall_banner[facing=west]",

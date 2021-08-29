@@ -1,8 +1,5 @@
 {
-  "added": [
-    "beehive"
-  ],
-  "removed": [
+  "common": [
     "beehive[facing=north,honey_level=0]",
     "beehive[facing=north,honey_level=1]",
     "beehive[facing=north,honey_level=2]",

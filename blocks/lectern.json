@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lectern"
-  ],
-  "removed": [
+  "common": [
     "lectern[facing=north,has_book=true,powered=true]",
     "lectern[facing=north,has_book=true,powered=false]",
     "lectern[facing=north,has_book=false,powered=true]",

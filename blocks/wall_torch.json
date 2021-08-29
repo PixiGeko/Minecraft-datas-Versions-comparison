@@ -1,8 +1,5 @@
 {
-  "added": [
-    "wall_torch"
-  ],
-  "removed": [
+  "common": [
     "wall_torch[facing=north]",
     "wall_torch[facing=south]",
     "wall_torch[facing=west]",

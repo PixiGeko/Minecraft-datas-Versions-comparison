@@ -1,8 +1,5 @@
 {
-  "added": [
-    "ender_chest"
-  ],
-  "removed": [
+  "common": [
     "ender_chest[facing=north,waterlogged=true]",
     "ender_chest[facing=north,waterlogged=false]",
     "ender_chest[facing=south,waterlogged=true]",

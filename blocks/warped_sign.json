@@ -1,8 +1,5 @@
 {
-  "added": [
-    "warped_sign"
-  ],
-  "removed": [
+  "common": [
     "warped_sign[rotation=0,waterlogged=true]",
     "warped_sign[rotation=0,waterlogged=false]",
     "warped_sign[rotation=1,waterlogged=true]",

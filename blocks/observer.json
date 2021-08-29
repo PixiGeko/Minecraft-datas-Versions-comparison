@@ -1,8 +1,5 @@
 {
-  "added": [
-    "observer"
-  ],
-  "removed": [
+  "common": [
     "observer[facing=north,powered=true]",
     "observer[facing=north,powered=false]",
     "observer[facing=east,powered=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "crimson_stem"
-  ],
-  "removed": [
+  "common": [
     "crimson_stem[axis=x]",
     "crimson_stem[axis=y]",
     "crimson_stem[axis=z]"

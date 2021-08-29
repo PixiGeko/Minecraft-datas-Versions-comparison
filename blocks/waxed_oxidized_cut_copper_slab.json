@@ -1,8 +1,5 @@
 {
-  "added": [
-    "waxed_oxidized_cut_copper_slab"
-  ],
-  "removed": [
+  "common": [
     "waxed_oxidized_cut_copper_slab[type=top,waterlogged=true]",
     "waxed_oxidized_cut_copper_slab[type=top,waterlogged=false]",
     "waxed_oxidized_cut_copper_slab[type=bottom,waterlogged=true]",

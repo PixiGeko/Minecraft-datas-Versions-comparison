@@ -1,8 +1,5 @@
 {
-  "added": [
-    "oak_fence"
-  ],
-  "removed": [
+  "common": [
     "oak_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "oak_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "red_sandstone_wall"
-  ],
-  "removed": [
+  "common": [
     "red_sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "red_sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "red_sandstone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

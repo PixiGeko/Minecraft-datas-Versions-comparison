@@ -1,8 +1,5 @@
 {
-  "added": [
-    "iron_bars"
-  ],
-  "removed": [
+  "common": [
     "iron_bars[east=true,north=true,south=true,waterlogged=true,west=true]",
     "iron_bars[east=true,north=true,south=true,waterlogged=true,west=false]",
     "iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]",

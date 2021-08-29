@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jungle_wall_sign"
-  ],
-  "removed": [
+  "common": [
     "jungle_wall_sign[facing=north,waterlogged=true]",
     "jungle_wall_sign[facing=north,waterlogged=false]",
     "jungle_wall_sign[facing=south,waterlogged=true]",

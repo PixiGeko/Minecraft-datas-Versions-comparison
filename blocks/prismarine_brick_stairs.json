@@ -1,8 +1,5 @@
 {
-  "added": [
-    "prismarine_brick_stairs"
-  ],
-  "removed": [
+  "common": [
     "prismarine_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "prismarine_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "prismarine_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

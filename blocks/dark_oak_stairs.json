@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dark_oak_stairs"
-  ],
-  "removed": [
+  "common": [
     "dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "dark_oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

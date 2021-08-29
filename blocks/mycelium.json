@@ -1,8 +1,5 @@
 {
-  "added": [
-    "mycelium"
-  ],
-  "removed": [
+  "common": [
     "mycelium[snowy=true]",
     "mycelium[snowy=false]"
   ]

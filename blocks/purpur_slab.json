@@ -1,8 +1,5 @@
 {
-  "added": [
-    "purpur_slab"
-  ],
-  "removed": [
+  "common": [
     "purpur_slab[type=top,waterlogged=true]",
     "purpur_slab[type=top,waterlogged=false]",
     "purpur_slab[type=bottom,waterlogged=true]",

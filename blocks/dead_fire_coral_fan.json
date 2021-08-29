@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dead_fire_coral_fan"
-  ],
-  "removed": [
+  "common": [
     "dead_fire_coral_fan[waterlogged=true]",
     "dead_fire_coral_fan[waterlogged=false]"
   ]

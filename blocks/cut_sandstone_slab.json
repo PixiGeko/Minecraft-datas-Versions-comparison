@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cut_sandstone_slab"
-  ],
-  "removed": [
+  "common": [
     "cut_sandstone_slab[type=top,waterlogged=true]",
     "cut_sandstone_slab[type=top,waterlogged=false]",
     "cut_sandstone_slab[type=bottom,waterlogged=true]",

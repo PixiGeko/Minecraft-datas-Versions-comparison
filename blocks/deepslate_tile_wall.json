@@ -1,8 +1,5 @@
 {
-  "added": [
-    "deepslate_tile_wall"
-  ],
-  "removed": [
+  "common": [
     "deepslate_tile_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "deepslate_tile_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "deepslate_tile_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

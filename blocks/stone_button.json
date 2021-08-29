@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stone_button"
-  ],
-  "removed": [
+  "common": [
     "stone_button[face=floor,facing=north,powered=true]",
     "stone_button[face=floor,facing=north,powered=false]",
     "stone_button[face=floor,facing=south,powered=true]",

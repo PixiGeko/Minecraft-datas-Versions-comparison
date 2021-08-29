@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dark_oak_wall_sign"
-  ],
-  "removed": [
+  "common": [
     "dark_oak_wall_sign[facing=north,waterlogged=true]",
     "dark_oak_wall_sign[facing=north,waterlogged=false]",
     "dark_oak_wall_sign[facing=south,waterlogged=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "target"
-  ],
-  "removed": [
+  "common": [
     "target[power=0]",
     "target[power=1]",
     "target[power=2]",

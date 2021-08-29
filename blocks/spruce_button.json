@@ -1,8 +1,5 @@
 {
-  "added": [
-    "spruce_button"
-  ],
-  "removed": [
+  "common": [
     "spruce_button[face=floor,facing=north,powered=true]",
     "spruce_button[face=floor,facing=north,powered=false]",
     "spruce_button[face=floor,facing=south,powered=true]",

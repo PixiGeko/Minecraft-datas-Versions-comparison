@@ -1,8 +1,5 @@
 {
-  "added": [
-    "repeating_command_block"
-  ],
-  "removed": [
+  "common": [
     "repeating_command_block[conditional=true,facing=north]",
     "repeating_command_block[conditional=true,facing=east]",
     "repeating_command_block[conditional=true,facing=south]",

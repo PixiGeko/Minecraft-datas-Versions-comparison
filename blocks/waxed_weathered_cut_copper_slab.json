@@ -1,8 +1,5 @@
 {
-  "added": [
-    "waxed_weathered_cut_copper_slab"
-  ],
-  "removed": [
+  "common": [
     "waxed_weathered_cut_copper_slab[type=top,waterlogged=true]",
     "waxed_weathered_cut_copper_slab[type=top,waterlogged=false]",
     "waxed_weathered_cut_copper_slab[type=bottom,waterlogged=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "waxed_weathered_cut_copper_stairs"
-  ],
-  "removed": [
+  "common": [
     "waxed_weathered_cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "waxed_weathered_cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "waxed_weathered_cut_copper_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

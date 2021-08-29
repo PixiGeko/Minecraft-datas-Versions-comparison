@@ -1,8 +1,5 @@
 {
-  "added": [
-    "granite_wall"
-  ],
-  "removed": [
+  "common": [
     "granite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "granite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "granite_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

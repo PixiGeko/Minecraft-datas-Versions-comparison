@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stonecutter"
-  ],
-  "removed": [
+  "common": [
     "stonecutter[facing=north]",
     "stonecutter[facing=south]",
     "stonecutter[facing=west]",

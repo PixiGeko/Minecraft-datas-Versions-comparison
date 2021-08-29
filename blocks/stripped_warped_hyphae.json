@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stripped_warped_hyphae"
-  ],
-  "removed": [
+  "common": [
     "stripped_warped_hyphae[axis=x]",
     "stripped_warped_hyphae[axis=y]",
     "stripped_warped_hyphae[axis=z]"

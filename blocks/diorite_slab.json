@@ -1,8 +1,5 @@
 {
-  "added": [
-    "diorite_slab"
-  ],
-  "removed": [
+  "common": [
     "diorite_slab[type=top,waterlogged=true]",
     "diorite_slab[type=top,waterlogged=false]",
     "diorite_slab[type=bottom,waterlogged=true]",

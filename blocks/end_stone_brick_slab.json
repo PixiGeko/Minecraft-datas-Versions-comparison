@@ -1,8 +1,5 @@
 {
-  "added": [
-    "end_stone_brick_slab"
-  ],
-  "removed": [
+  "common": [
     "end_stone_brick_slab[type=top,waterlogged=true]",
     "end_stone_brick_slab[type=top,waterlogged=false]",
     "end_stone_brick_slab[type=bottom,waterlogged=true]",

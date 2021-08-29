@@ -1,8 +1,5 @@
 {
-  "added": [
-    "acacia_door"
-  ],
-  "removed": [
+  "common": [
     "acacia_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "acacia_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "acacia_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

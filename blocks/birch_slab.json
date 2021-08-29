@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_slab"
-  ],
-  "removed": [
+  "common": [
     "birch_slab[type=top,waterlogged=true]",
     "birch_slab[type=top,waterlogged=false]",
     "birch_slab[type=bottom,waterlogged=true]",

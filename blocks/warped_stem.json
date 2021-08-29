@@ -1,8 +1,5 @@
 {
-  "added": [
-    "warped_stem"
-  ],
-  "removed": [
+  "common": [
     "warped_stem[axis=x]",
     "warped_stem[axis=y]",
     "warped_stem[axis=z]"

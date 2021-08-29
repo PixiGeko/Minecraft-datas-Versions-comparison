@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_fence"
-  ],
-  "removed": [
+  "common": [
     "birch_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "birch_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "birch_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

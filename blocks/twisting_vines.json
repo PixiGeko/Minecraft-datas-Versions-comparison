@@ -1,8 +1,5 @@
 {
-  "added": [
-    "twisting_vines"
-  ],
-  "removed": [
+  "common": [
     "twisting_vines[age=0]",
     "twisting_vines[age=1]",
     "twisting_vines[age=2]",

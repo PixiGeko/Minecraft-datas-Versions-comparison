@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cocoa"
-  ],
-  "removed": [
+  "common": [
     "cocoa[age=0,facing=north]",
     "cocoa[age=0,facing=south]",
     "cocoa[age=0,facing=west]",

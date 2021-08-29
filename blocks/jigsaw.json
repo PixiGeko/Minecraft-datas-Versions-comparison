@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jigsaw"
-  ],
-  "removed": [
+  "common": [
     "jigsaw[orientation=down_east]",
     "jigsaw[orientation=down_north]",
     "jigsaw[orientation=down_south]",

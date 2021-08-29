@@ -1,8 +1,5 @@
 {
-  "added": [
-    "wheat"
-  ],
-  "removed": [
+  "common": [
     "wheat[age=0]",
     "wheat[age=1]",
     "wheat[age=2]",

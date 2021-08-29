@@ -1,8 +1,5 @@
 {
-  "added": [
-    "peony"
-  ],
-  "removed": [
+  "common": [
     "peony[half=upper]",
     "peony[half=lower]"
   ]

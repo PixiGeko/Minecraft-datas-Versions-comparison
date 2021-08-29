@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_door"
-  ],
-  "removed": [
+  "common": [
     "birch_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "birch_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "birch_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dark_oak_wood"
-  ],
-  "removed": [
+  "common": [
     "dark_oak_wood[axis=x]",
     "dark_oak_wood[axis=y]",
     "dark_oak_wood[axis=z]"

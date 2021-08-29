@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jungle_door"
-  ],
-  "removed": [
+  "common": [
     "jungle_door[facing=north,half=upper,hinge=left,open=true,powered=true]",
     "jungle_door[facing=north,half=upper,hinge=left,open=true,powered=false]",
     "jungle_door[facing=north,half=upper,hinge=left,open=false,powered=true]",

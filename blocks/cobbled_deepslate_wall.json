@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cobbled_deepslate_wall"
-  ],
-  "removed": [
+  "common": [
     "cobbled_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "cobbled_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "cobbled_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lightning_rod"
-  ],
-  "removed": [
+  "common": [
     "lightning_rod[facing=north,powered=true,waterlogged=true]",
     "lightning_rod[facing=north,powered=true,waterlogged=false]",
     "lightning_rod[facing=north,powered=false,waterlogged=true]",

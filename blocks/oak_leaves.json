@@ -1,8 +1,5 @@
 {
-  "added": [
-    "oak_leaves"
-  ],
-  "removed": [
+  "common": [
     "oak_leaves[distance=1,persistent=true]",
     "oak_leaves[distance=1,persistent=false]",
     "oak_leaves[distance=2,persistent=true]",

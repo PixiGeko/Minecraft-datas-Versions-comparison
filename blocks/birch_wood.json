@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_wood"
-  ],
-  "removed": [
+  "common": [
     "birch_wood[axis=x]",
     "birch_wood[axis=y]",
     "birch_wood[axis=z]"

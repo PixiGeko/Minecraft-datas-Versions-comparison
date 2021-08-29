@@ -1,8 +1,5 @@
 {
-  "added": [
-    "turtle_egg"
-  ],
-  "removed": [
+  "common": [
     "turtle_egg[eggs=1,hatch=0]",
     "turtle_egg[eggs=1,hatch=1]",
     "turtle_egg[eggs=1,hatch=2]",

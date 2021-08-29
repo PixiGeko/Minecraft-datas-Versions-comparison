@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dark_oak_sapling"
-  ],
-  "removed": [
+  "common": [
     "dark_oak_sapling[stage=0]",
     "dark_oak_sapling[stage=1]"
   ]

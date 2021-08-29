@@ -1,8 +1,5 @@
 {
-  "added": [
-    "bone_block"
-  ],
-  "removed": [
+  "common": [
     "bone_block[axis=x]",
     "bone_block[axis=y]",
     "bone_block[axis=z]"

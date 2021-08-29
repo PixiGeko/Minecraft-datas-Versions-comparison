@@ -1,8 +1,5 @@
 {
-  "added": [
-    "glass_pane"
-  ],
-  "removed": [
+  "common": [
     "glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

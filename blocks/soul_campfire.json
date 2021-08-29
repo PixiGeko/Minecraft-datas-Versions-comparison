@@ -1,8 +1,5 @@
 {
-  "added": [
-    "soul_campfire"
-  ],
-  "removed": [
+  "common": [
     "soul_campfire[facing=north,lit=true,signal_fire=true,waterlogged=true]",
     "soul_campfire[facing=north,lit=true,signal_fire=true,waterlogged=false]",
     "soul_campfire[facing=north,lit=true,signal_fire=false,waterlogged=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "smooth_red_sandstone_stairs"
-  ],
-  "removed": [
+  "common": [
     "smooth_red_sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "smooth_red_sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "smooth_red_sandstone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

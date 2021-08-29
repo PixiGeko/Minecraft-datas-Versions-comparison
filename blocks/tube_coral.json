@@ -1,8 +1,5 @@
 {
-  "added": [
-    "tube_coral"
-  ],
-  "removed": [
+  "common": [
     "tube_coral[waterlogged=true]",
     "tube_coral[waterlogged=false]"
   ]

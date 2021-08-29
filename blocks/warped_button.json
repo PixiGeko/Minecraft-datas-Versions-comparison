@@ -1,8 +1,5 @@
 {
-  "added": [
-    "warped_button"
-  ],
-  "removed": [
+  "common": [
     "warped_button[face=floor,facing=north,powered=true]",
     "warped_button[face=floor,facing=north,powered=false]",
     "warped_button[face=floor,facing=south,powered=true]",

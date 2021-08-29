@@ -1,8 +1,5 @@
 {
-  "added": [
-    "blackstone_slab"
-  ],
-  "removed": [
+  "common": [
     "blackstone_slab[type=top,waterlogged=true]",
     "blackstone_slab[type=top,waterlogged=false]",
     "blackstone_slab[type=bottom,waterlogged=true]",

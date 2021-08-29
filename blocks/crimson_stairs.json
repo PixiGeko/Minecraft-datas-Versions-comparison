@@ -1,8 +1,5 @@
 {
-  "added": [
-    "crimson_stairs"
-  ],
-  "removed": [
+  "common": [
     "crimson_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "crimson_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "crimson_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

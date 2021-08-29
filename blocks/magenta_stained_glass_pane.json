@@ -1,8 +1,5 @@
 {
-  "added": [
-    "magenta_stained_glass_pane"
-  ],
-  "removed": [
+  "common": [
     "magenta_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "magenta_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "magenta_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

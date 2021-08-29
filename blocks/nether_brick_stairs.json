@@ -1,8 +1,5 @@
 {
-  "added": [
-    "nether_brick_stairs"
-  ],
-  "removed": [
+  "common": [
     "nether_brick_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "nether_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "nether_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

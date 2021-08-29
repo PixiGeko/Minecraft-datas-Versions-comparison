@@ -1,8 +1,5 @@
 {
-  "added": [
-    "spruce_stairs"
-  ],
-  "removed": [
+  "common": [
     "spruce_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "spruce_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "prismarine_brick_slab"
-  ],
-  "removed": [
+  "common": [
     "prismarine_brick_slab[type=top,waterlogged=true]",
     "prismarine_brick_slab[type=top,waterlogged=false]",
     "prismarine_brick_slab[type=bottom,waterlogged=true]",

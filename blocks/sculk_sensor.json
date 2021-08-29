@@ -1,8 +1,5 @@
 {
-  "added": [
-    "sculk_sensor"
-  ],
-  "removed": [
+  "common": [
     "sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=true]",
     "sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]",
     "sculk_sensor[power=0,sculk_sensor_phase=active,waterlogged=true]",

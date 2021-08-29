@@ -1,8 +1,5 @@
 {
-  "added": [
-    "chain"
-  ],
-  "removed": [
+  "common": [
     "chain[axis=x,waterlogged=true]",
     "chain[axis=x,waterlogged=false]",
     "chain[axis=y,waterlogged=true]",

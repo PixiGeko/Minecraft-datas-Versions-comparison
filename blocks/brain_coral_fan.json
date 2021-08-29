@@ -1,8 +1,5 @@
 {
-  "added": [
-    "brain_coral_fan"
-  ],
-  "removed": [
+  "common": [
     "brain_coral_fan[waterlogged=true]",
     "brain_coral_fan[waterlogged=false]"
   ]

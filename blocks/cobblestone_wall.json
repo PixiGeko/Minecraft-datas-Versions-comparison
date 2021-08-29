@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cobblestone_wall"
-  ],
-  "removed": [
+  "common": [
     "cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

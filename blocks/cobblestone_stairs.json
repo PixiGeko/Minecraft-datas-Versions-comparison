@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cobblestone_stairs"
-  ],
-  "removed": [
+  "common": [
     "cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "cobblestone_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

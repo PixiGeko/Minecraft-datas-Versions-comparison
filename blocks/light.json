@@ -1,8 +1,5 @@
 {
-  "added": [
-    "light"
-  ],
-  "removed": [
+  "common": [
     "light[level=0,waterlogged=true]",
     "light[level=0,waterlogged=false]",
     "light[level=1,waterlogged=true]",

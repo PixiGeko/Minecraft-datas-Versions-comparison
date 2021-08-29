@@ -1,8 +1,5 @@
 {
-  "added": [
-    "oak_button"
-  ],
-  "removed": [
+  "common": [
     "oak_button[face=floor,facing=north,powered=true]",
     "oak_button[face=floor,facing=north,powered=false]",
     "oak_button[face=floor,facing=south,powered=true]",

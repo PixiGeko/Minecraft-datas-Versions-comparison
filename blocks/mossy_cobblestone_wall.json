@@ -1,8 +1,5 @@
 {
-  "added": [
-    "mossy_cobblestone_wall"
-  ],
-  "removed": [
+  "common": [
     "mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

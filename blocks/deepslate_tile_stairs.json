@@ -1,8 +1,5 @@
 {
-  "added": [
-    "deepslate_tile_stairs"
-  ],
-  "removed": [
+  "common": [
     "deepslate_tile_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "deepslate_tile_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "deepslate_tile_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

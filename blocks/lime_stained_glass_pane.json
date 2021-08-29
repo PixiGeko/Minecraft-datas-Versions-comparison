@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lime_stained_glass_pane"
-  ],
-  "removed": [
+  "common": [
     "lime_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "lime_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "lime_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

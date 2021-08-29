@@ -117,7 +117,6 @@
     "minecraft:brown_terracotta",
     "minecraft:brown_wool",
     "minecraft:bucket",
-    "minecraft:bundle",
     "minecraft:cake",
     "minecraft:campfire",
     "minecraft:candle",
@@ -1059,5 +1058,8 @@
     "minecraft:yellow_stained_glass_pane_from_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:bundle"
   ]
 }

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "repeater"
-  ],
-  "removed": [
+  "common": [
     "repeater[delay=1,facing=north,locked=true,powered=true]",
     "repeater[delay=1,facing=north,locked=true,powered=false]",
     "repeater[delay=1,facing=north,locked=false,powered=true]",

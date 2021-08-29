@@ -1,8 +1,5 @@
 {
-  "added": [
-    "attached_pumpkin_stem"
-  ],
-  "removed": [
+  "common": [
     "attached_pumpkin_stem[facing=north]",
     "attached_pumpkin_stem[facing=south]",
     "attached_pumpkin_stem[facing=west]",

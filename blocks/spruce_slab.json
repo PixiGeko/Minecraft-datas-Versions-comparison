@@ -1,8 +1,5 @@
 {
-  "added": [
-    "spruce_slab"
-  ],
-  "removed": [
+  "common": [
     "spruce_slab[type=top,waterlogged=true]",
     "spruce_slab[type=top,waterlogged=false]",
     "spruce_slab[type=bottom,waterlogged=true]",

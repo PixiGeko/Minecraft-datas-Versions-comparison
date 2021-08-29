@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stripped_jungle_wood"
-  ],
-  "removed": [
+  "common": [
     "stripped_jungle_wood[axis=x]",
     "stripped_jungle_wood[axis=y]",
     "stripped_jungle_wood[axis=z]"

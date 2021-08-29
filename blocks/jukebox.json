@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jukebox"
-  ],
-  "removed": [
+  "common": [
     "jukebox[has_record=true]",
     "jukebox[has_record=false]"
   ]

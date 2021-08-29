@@ -1,8 +1,5 @@
 {
-  "added": [
-    "jungle_wood"
-  ],
-  "removed": [
+  "common": [
     "jungle_wood[axis=x]",
     "jungle_wood[axis=y]",
     "jungle_wood[axis=z]"

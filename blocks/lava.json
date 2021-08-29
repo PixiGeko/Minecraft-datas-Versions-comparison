@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lava"
-  ],
-  "removed": [
+  "common": [
     "lava[level=0]",
     "lava[level=1]",
     "lava[level=2]",

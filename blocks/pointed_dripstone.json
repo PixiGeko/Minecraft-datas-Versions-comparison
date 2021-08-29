@@ -1,8 +1,5 @@
 {
-  "added": [
-    "pointed_dripstone"
-  ],
-  "removed": [
+  "common": [
     "pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=true]",
     "pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=false]",
     "pointed_dripstone[thickness=tip_merge,vertical_direction=down,waterlogged=true]",

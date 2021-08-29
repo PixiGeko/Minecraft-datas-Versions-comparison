@@ -1,8 +1,5 @@
 {
-  "added": [
-    "quartz_pillar"
-  ],
-  "removed": [
+  "common": [
     "quartz_pillar[axis=x]",
     "quartz_pillar[axis=y]",
     "quartz_pillar[axis=z]"

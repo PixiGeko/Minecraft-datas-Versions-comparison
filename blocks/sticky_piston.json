@@ -1,8 +1,5 @@
 {
-  "added": [
-    "sticky_piston"
-  ],
-  "removed": [
+  "common": [
     "sticky_piston[extended=true,facing=north]",
     "sticky_piston[extended=true,facing=east]",
     "sticky_piston[extended=true,facing=south]",

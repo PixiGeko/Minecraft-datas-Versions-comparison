@@ -1,8 +1,5 @@
 {
-  "added": [
-    "small_dripleaf"
-  ],
-  "removed": [
+  "common": [
     "small_dripleaf[facing=north,half=upper,waterlogged=true]",
     "small_dripleaf[facing=north,half=upper,waterlogged=false]",
     "small_dripleaf[facing=north,half=lower,waterlogged=true]",

@@ -1,8 +1,5 @@
 {
-  "added": [
-    "cobbled_deepslate_slab"
-  ],
-  "removed": [
+  "common": [
     "cobbled_deepslate_slab[type=top,waterlogged=true]",
     "cobbled_deepslate_slab[type=top,waterlogged=false]",
     "cobbled_deepslate_slab[type=bottom,waterlogged=true]",

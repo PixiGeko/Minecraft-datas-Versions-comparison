@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lime_shulker_box"
-  ],
-  "removed": [
+  "common": [
     "lime_shulker_box[facing=north]",
     "lime_shulker_box[facing=east]",
     "lime_shulker_box[facing=south]",

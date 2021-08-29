@@ -1,8 +1,5 @@
 {
-  "added": [
-    "attached_melon_stem"
-  ],
-  "removed": [
+  "common": [
     "attached_melon_stem[facing=north]",
     "attached_melon_stem[facing=south]",
     "attached_melon_stem[facing=west]",

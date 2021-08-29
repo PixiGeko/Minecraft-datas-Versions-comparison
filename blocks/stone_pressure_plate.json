@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stone_pressure_plate"
-  ],
-  "removed": [
+  "common": [
     "stone_pressure_plate[powered=true]",
     "stone_pressure_plate[powered=false]"
   ]

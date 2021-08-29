@@ -1,8 +1,5 @@
 {
-  "added": [
-    "ladder"
-  ],
-  "removed": [
+  "common": [
     "ladder[facing=north,waterlogged=true]",
     "ladder[facing=north,waterlogged=false]",
     "ladder[facing=south,waterlogged=true]",

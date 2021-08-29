@@ -1,8 +1,5 @@
 {
-  "added": [
-    "chipped_anvil"
-  ],
-  "removed": [
+  "common": [
     "chipped_anvil[facing=north]",
     "chipped_anvil[facing=south]",
     "chipped_anvil[facing=west]",

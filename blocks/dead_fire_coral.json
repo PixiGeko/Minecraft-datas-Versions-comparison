@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dead_fire_coral"
-  ],
-  "removed": [
+  "common": [
     "dead_fire_coral[waterlogged=true]",
     "dead_fire_coral[waterlogged=false]"
   ]

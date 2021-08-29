@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_button"
-  ],
-  "removed": [
+  "common": [
     "birch_button[face=floor,facing=north,powered=true]",
     "birch_button[face=floor,facing=north,powered=false]",
     "birch_button[face=floor,facing=south,powered=true]",

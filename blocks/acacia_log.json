@@ -1,8 +1,5 @@
 {
-  "added": [
-    "acacia_log"
-  ],
-  "removed": [
+  "common": [
     "acacia_log[axis=x]",
     "acacia_log[axis=y]",
     "acacia_log[axis=z]"

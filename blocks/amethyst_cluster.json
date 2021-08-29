@@ -1,8 +1,5 @@
 {
-  "added": [
-    "amethyst_cluster"
-  ],
-  "removed": [
+  "common": [
     "amethyst_cluster[facing=north,waterlogged=true]",
     "amethyst_cluster[facing=north,waterlogged=false]",
     "amethyst_cluster[facing=east,waterlogged=true]",

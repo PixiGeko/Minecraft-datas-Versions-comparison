@@ -1,8 +1,5 @@
 {
-  "added": [
-    "polished_deepslate_wall"
-  ],
-  "removed": [
+  "common": [
     "polished_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "polished_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "polished_deepslate_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

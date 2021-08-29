@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stripped_birch_log"
-  ],
-  "removed": [
+  "common": [
     "stripped_birch_log[axis=x]",
     "stripped_birch_log[axis=y]",
     "stripped_birch_log[axis=z]"

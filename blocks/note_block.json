@@ -1,8 +1,5 @@
 {
-  "added": [
-    "note_block"
-  ],
-  "removed": [
+  "common": [
     "note_block[instrument=harp,note=0,powered=true]",
     "note_block[instrument=harp,note=0,powered=false]",
     "note_block[instrument=harp,note=1,powered=true]",

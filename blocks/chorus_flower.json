@@ -1,8 +1,5 @@
 {
-  "added": [
-    "chorus_flower"
-  ],
-  "removed": [
+  "common": [
     "chorus_flower[age=0]",
     "chorus_flower[age=1]",
     "chorus_flower[age=2]",

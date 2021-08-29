@@ -1,8 +1,5 @@
 {
-  "added": [
-    "redstone_wall_torch"
-  ],
-  "removed": [
+  "common": [
     "redstone_wall_torch[facing=north,lit=true]",
     "redstone_wall_torch[facing=north,lit=false]",
     "redstone_wall_torch[facing=south,lit=true]",

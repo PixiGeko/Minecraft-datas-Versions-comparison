@@ -1,8 +1,5 @@
 {
-  "added": [
-    "spruce_fence"
-  ],
-  "removed": [
+  "common": [
     "spruce_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "spruce_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "spruce_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

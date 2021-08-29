@@ -1,8 +1,5 @@
 {
-  "added": [
-    "lilac"
-  ],
-  "removed": [
+  "common": [
     "lilac[half=upper]",
     "lilac[half=lower]"
   ]

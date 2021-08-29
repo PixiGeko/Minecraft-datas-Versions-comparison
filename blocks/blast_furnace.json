@@ -1,8 +1,5 @@
 {
-  "added": [
-    "blast_furnace"
-  ],
-  "removed": [
+  "common": [
     "blast_furnace[facing=north,lit=true]",
     "blast_furnace[facing=north,lit=false]",
     "blast_furnace[facing=south,lit=true]",

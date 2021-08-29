@@ -1,8 +1,5 @@
 {
-  "added": [
-    "dark_oak_log"
-  ],
-  "removed": [
+  "common": [
     "dark_oak_log[axis=x]",
     "dark_oak_log[axis=y]",
     "dark_oak_log[axis=z]"

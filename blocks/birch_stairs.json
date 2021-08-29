@@ -1,8 +1,5 @@
 {
-  "added": [
-    "birch_stairs"
-  ],
-  "removed": [
+  "common": [
     "birch_stairs[facing=north,half=top,shape=straight,waterlogged=true]",
     "birch_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
     "birch_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]",

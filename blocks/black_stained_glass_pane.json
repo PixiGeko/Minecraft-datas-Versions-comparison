@@ -1,8 +1,5 @@
 {
-  "added": [
-    "black_stained_glass_pane"
-  ],
-  "removed": [
+  "common": [
     "black_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "black_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "black_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",

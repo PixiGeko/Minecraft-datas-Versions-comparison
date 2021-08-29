@@ -1,8 +1,5 @@
 {
-  "added": [
-    "polished_granite_slab"
-  ],
-  "removed": [
+  "common": [
     "polished_granite_slab[type=top,waterlogged=true]",
     "polished_granite_slab[type=top,waterlogged=false]",
     "polished_granite_slab[type=bottom,waterlogged=true]",

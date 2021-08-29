@@ -1,8 +1,5 @@
 {
-  "added": [
-    "crimson_fence"
-  ],
-  "removed": [
+  "common": [
     "crimson_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "crimson_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "crimson_fence[east=true,north=true,south=true,waterlogged=false,west=true]",

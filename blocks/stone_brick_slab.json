@@ -1,8 +1,5 @@
 {
-  "added": [
-    "stone_brick_slab"
-  ],
-  "removed": [
+  "common": [
     "stone_brick_slab[type=top,waterlogged=true]",
     "stone_brick_slab[type=top,waterlogged=false]",
     "stone_brick_slab[type=bottom,waterlogged=true]",

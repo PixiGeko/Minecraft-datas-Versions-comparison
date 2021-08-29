@@ -1,8 +1,5 @@
 {
-  "added": [
-    "spruce_leaves"
-  ],
-  "removed": [
+  "common": [
     "spruce_leaves[distance=1,persistent=true]",
     "spruce_leaves[distance=1,persistent=false]",
     "spruce_leaves[distance=2,persistent=true]",

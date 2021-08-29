@@ -1,8 +1,5 @@
 {
-  "added": [
-    "deepslate_brick_wall"
-  ],
-  "removed": [
+  "common": [
     "deepslate_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=none]",
     "deepslate_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=low]",
     "deepslate_brick_wall[east=none,north=none,south=none,up=true,waterlogged=true,west=tall]",

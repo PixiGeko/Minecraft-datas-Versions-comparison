@@ -1,8 +1,5 @@
 {
-  "added": [
-    "heavy_weighted_pressure_plate"
-  ],
-  "removed": [
+  "common": [
     "heavy_weighted_pressure_plate[power=0]",
     "heavy_weighted_pressure_plate[power=1]",
     "heavy_weighted_pressure_plate[power=2]",

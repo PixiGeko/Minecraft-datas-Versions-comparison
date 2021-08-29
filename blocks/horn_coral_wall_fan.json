@@ -1,8 +1,5 @@
 {
-  "added": [
-    "horn_coral_wall_fan"
-  ],
-  "removed": [
+  "common": [
     "horn_coral_wall_fan[facing=north,waterlogged=true]",
     "horn_coral_wall_fan[facing=north,waterlogged=false]",
     "horn_coral_wall_fan[facing=south,waterlogged=true]",
