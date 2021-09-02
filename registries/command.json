@@ -1,10 +1,11 @@
 {
   "added": [
-    "minecraft:attribute",
-    "minecraft:locatebiome"
+    "minecraft:item",
+    "minecraft:perf"
   ],
   "common": [
     "minecraft:advancement",
+    "minecraft:attribute",
     "minecraft:ban",
     "minecraft:ban-ip",
     "minecraft:banlist",
@@ -32,6 +33,7 @@
     "minecraft:kill",
     "minecraft:list",
     "minecraft:locate",
+    "minecraft:locatebiome",
     "minecraft:loot",
     "minecraft:me",
     "minecraft:msg",
@@ -43,7 +45,6 @@
     "minecraft:publish",
     "minecraft:recipe",
     "minecraft:reload",
-    "minecraft:replaceitem",
     "minecraft:save-all",
     "minecraft:save-off",
     "minecraft:save-on",
@@ -76,5 +77,8 @@
     "minecraft:whitelist",
     "minecraft:worldborder",
     "minecraft:xp"
+  ],
+  "removed": [
+    "minecraft:replaceitem"
   ]
 }

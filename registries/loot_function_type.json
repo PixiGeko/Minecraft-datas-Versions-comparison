@@ -1,5 +1,9 @@
 {
   "added": [
+    "minecraft:set_banner_pattern",
+    "minecraft:set_enchantments"
+  ],
+  "common": [
     "minecraft:apply_bonus",
     "minecraft:copy_name",
     "minecraft:copy_nbt",

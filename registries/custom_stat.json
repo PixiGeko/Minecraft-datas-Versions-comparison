@@ -1,8 +1,7 @@
 {
   "added": [
-    "minecraft:interact_with_smithing_table",
-    "minecraft:strider_one_cm",
-    "minecraft:target_hit"
+    "minecraft:play_time",
+    "minecraft:total_world_time"
   ],
   "common": [
     "minecraft:animals_bred",
@@ -44,6 +43,7 @@
     "minecraft:interact_with_grindstone",
     "minecraft:interact_with_lectern",
     "minecraft:interact_with_loom",
+    "minecraft:interact_with_smithing_table",
     "minecraft:interact_with_smoker",
     "minecraft:interact_with_stonecutter",
     "minecraft:jump",
@@ -56,7 +56,6 @@
     "minecraft:open_shulker_box",
     "minecraft:pig_one_cm",
     "minecraft:play_noteblock",
-    "minecraft:play_one_minute",
     "minecraft:play_record",
     "minecraft:player_kills",
     "minecraft:pot_flower",
@@ -65,8 +64,10 @@
     "minecraft:sleep_in_bed",
     "minecraft:sneak_time",
     "minecraft:sprint_one_cm",
+    "minecraft:strider_one_cm",
     "minecraft:swim_one_cm",
     "minecraft:talked_to_villager",
+    "minecraft:target_hit",
     "minecraft:time_since_death",
     "minecraft:time_since_rest",
     "minecraft:traded_with_villager",
@@ -76,5 +77,8 @@
     "minecraft:walk_on_water_one_cm",
     "minecraft:walk_one_cm",
     "minecraft:walk_under_water_one_cm"
+  ],
+  "removed": [
+    "minecraft:play_one_minute"
   ]
 }

@@ -1,5 +1,7 @@
 {
-  "added": [
-    "crimson_stem"
+  "common": [
+    "crimson_stem[axis=x]",
+    "crimson_stem[axis=y]",
+    "crimson_stem[axis=z]"
   ]
 }

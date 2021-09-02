@@ -1,5 +1,7 @@
 {
-  "added": [
-    "warped_hyphae"
+  "common": [
+    "warped_hyphae[axis=x]",
+    "warped_hyphae[axis=y]",
+    "warped_hyphae[axis=z]"
   ]
 }

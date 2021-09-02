@@ -1,5 +1,7 @@
 {
-  "added": [
-    "polished_basalt"
+  "common": [
+    "polished_basalt[axis=x]",
+    "polished_basalt[axis=y]",
+    "polished_basalt[axis=z]"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:lodestone"
+    "minecraft:lightning_rod"
   ],
   "common": [
     "minecraft:armorer",
@@ -15,6 +15,7 @@
     "minecraft:home",
     "minecraft:leatherworker",
     "minecraft:librarian",
+    "minecraft:lodestone",
     "minecraft:mason",
     "minecraft:meeting",
     "minecraft:nether_portal",

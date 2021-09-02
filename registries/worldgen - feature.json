@@ -1,5 +1,19 @@
 {
   "added": [
+    "minecraft:dripstone_cluster",
+    "minecraft:geode",
+    "minecraft:glow_lichen",
+    "minecraft:growing_plant",
+    "minecraft:large_dripstone",
+    "minecraft:replace_single_block",
+    "minecraft:root_system",
+    "minecraft:scattered_ore",
+    "minecraft:small_dripstone",
+    "minecraft:underwater_magma",
+    "minecraft:vegetation_patch",
+    "minecraft:waterlogged_vegetation_patch"
+  ],
+  "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
     "minecraft:basalt_pillar",
@@ -14,7 +28,6 @@
     "minecraft:delta_feature",
     "minecraft:desert_well",
     "minecraft:disk",
-    "minecraft:emerald_ore",
     "minecraft:end_gateway",
     "minecraft:end_island",
     "minecraft:end_spike",
@@ -37,7 +50,6 @@
     "minecraft:netherrack_replace_blobs",
     "minecraft:no_bonemeal_flower",
     "minecraft:no_op",
-    "minecraft:no_surface_ore",
     "minecraft:ore",
     "minecraft:random_boolean_selector",
     "minecraft:random_patch",
@@ -52,5 +64,9 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
+  ],
+  "removed": [
+    "minecraft:emerald_ore",
+    "minecraft:no_surface_ore"
   ]
 }

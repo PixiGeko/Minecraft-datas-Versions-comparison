@@ -1,13 +1,15 @@
 {
   "added": [
+    "minecraft:long_jump",
+    "minecraft:play_dead",
+    "minecraft:ram"
+  ],
+  "common": [
     "minecraft:admire_item",
     "minecraft:avoid",
     "minecraft:celebrate",
-    "minecraft:fight",
-    "minecraft:ride"
-  ],
-  "common": [
     "minecraft:core",
+    "minecraft:fight",
     "minecraft:hide",
     "minecraft:idle",
     "minecraft:meet",
@@ -16,6 +18,7 @@
     "minecraft:pre_raid",
     "minecraft:raid",
     "minecraft:rest",
+    "minecraft:ride",
     "minecraft:work"
   ]
 }

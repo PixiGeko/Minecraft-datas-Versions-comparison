@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:value_check"
+  ],
+  "common": [
     "minecraft:alternative",
     "minecraft:block_state_property",
     "minecraft:damage_source_properties",

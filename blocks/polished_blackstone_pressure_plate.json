@@ -1,5 +1,6 @@
 {
-  "added": [
-    "polished_blackstone_pressure_plate"
+  "common": [
+    "polished_blackstone_pressure_plate[powered=true]",
+    "polished_blackstone_pressure_plate[powered=false]"
   ]
 }

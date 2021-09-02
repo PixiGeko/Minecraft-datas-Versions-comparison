@@ -1,5 +1,7 @@
 {
-  "added": [
-    "stripped_crimson_hyphae"
+  "common": [
+    "stripped_crimson_hyphae[axis=x]",
+    "stripped_crimson_hyphae[axis=y]",
+    "stripped_crimson_hyphae[axis=z]"
   ]
 }

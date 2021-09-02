@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:randomized_int_state_provider"
+  ],
+  "common": [
     "minecraft:forest_flower_provider",
     "minecraft:plain_flower_provider",
     "minecraft:rotated_block_provider",
