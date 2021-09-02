@@ -1,12 +1,18 @@
 {
   "added": [
-    "minecraft:bee"
+    "minecraft:hoglin",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:strider",
+    "minecraft:zoglin",
+    "minecraft:zombified_piglin"
   ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
     "minecraft:arrow",
     "minecraft:bat",
+    "minecraft:bee",
     "minecraft:blaze",
     "minecraft:boat",
     "minecraft:cat",
@@ -103,7 +109,9 @@
     "minecraft:wolf",
     "minecraft:zombie",
     "minecraft:zombie_horse",
-    "minecraft:zombie_pigman",
     "minecraft:zombie_villager"
+  ],
+  "removed": [
+    "minecraft:zombie_pigman"
   ]
 }

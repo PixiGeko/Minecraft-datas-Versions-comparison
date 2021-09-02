@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:spectate"
+    "minecraft:attribute",
+    "minecraft:locatebiome"
   ],
   "common": [
     "minecraft:advancement",
@@ -54,6 +55,7 @@
     "minecraft:setidletimeout",
     "minecraft:setworldspawn",
     "minecraft:spawnpoint",
+    "minecraft:spectate",
     "minecraft:spreadplayers",
     "minecraft:stop",
     "minecraft:stopsound",
