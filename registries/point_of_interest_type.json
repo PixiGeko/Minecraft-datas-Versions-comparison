@@ -1,5 +1,10 @@
 {
   "added": [
+    "minecraft:bee_nest",
+    "minecraft:beehive",
+    "minecraft:nether_portal"
+  ],
+  "common": [
     "minecraft:armorer",
     "minecraft:butcher",
     "minecraft:cartographer",

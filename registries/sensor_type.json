@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:dummy",
     "minecraft:golem_last_seen",
     "minecraft:hurt_by",

@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:last_woken"
+  ],
+  "common": [
     "minecraft:breed_target",
     "minecraft:cant_reach_walk_target_since",
     "minecraft:dummy",

@@ -1,11 +1,18 @@
 {
   "added": [
-    "gamerule disableRaids <value>"
+    "gamerule doImmediateRespawn <value>",
+    "gamerule doInsomnia <value>",
+    "gamerule doPatrolSpawning <value>",
+    "gamerule doTraderSpawning <value>",
+    "gamerule drowningDamage <value>",
+    "gamerule fallDamage <value>",
+    "gamerule fireDamage <value>"
   ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",
     "gamerule disableElytraMovementCheck <value>",
+    "gamerule disableRaids <value>",
     "gamerule doDaylightCycle <value>",
     "gamerule doEntityDrops <value>",
     "gamerule doFireTick <value>",

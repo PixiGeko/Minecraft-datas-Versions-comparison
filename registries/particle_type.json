@@ -1,5 +1,11 @@
 {
   "added": [
+    "minecraft:dripping_honey",
+    "minecraft:falling_honey",
+    "minecraft:falling_nectar",
+    "minecraft:landing_honey"
+  ],
+  "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
     "minecraft:barrier",

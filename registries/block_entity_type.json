@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:beehive"
+  ],
+  "common": [
     "minecraft:banner",
     "minecraft:barrel",
     "minecraft:beacon",

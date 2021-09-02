@@ -1,5 +1,9 @@
 {
   "added": [
+    "minecraft:interact_with_anvil",
+    "minecraft:interact_with_grindstone"
+  ],
+  "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",
     "minecraft:bell_ring",
