@@ -1,7 +1,0 @@
-{
-  "common": [
-    "minecraft:debug",
-    "minecraft:flat",
-    "minecraft:noise"
-  ]
-}

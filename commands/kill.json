@@ -1,5 +1,5 @@
 {
   "common": [
-    "kill <targets: entity>"
+    "kill <targets>"
   ]
 }

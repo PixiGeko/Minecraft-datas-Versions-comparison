@@ -1,5 +1,5 @@
 {
   "common": [
-    "me <action: string>"
+    "me <action>"
   ]
 }

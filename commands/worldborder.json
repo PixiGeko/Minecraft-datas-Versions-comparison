@@ -1,12 +1,12 @@
 {
   "common": [
-    "worldborder add <distance: double> <time: integer>",
-    "worldborder set <distance: double> <time: integer>",
-    "worldborder center <pos: vec2>",
-    "worldborder damage amount <damagePerBlock: float>",
-    "worldborder damage buffer <distance: float>",
+    "worldborder add <distance> <time>",
+    "worldborder center <pos>",
+    "worldborder damage amount <damagePerBlock>",
+    "worldborder damage buffer <distance>",
     "worldborder get",
-    "worldborder warning distance <distance: integer>",
-    "worldborder warning time <time: integer>"
+    "worldborder set <distance> <time>",
+    "worldborder warning distance <distance>",
+    "worldborder warning time <time>"
   ]
 }

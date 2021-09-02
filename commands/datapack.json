@@ -1,10 +1,10 @@
 {
   "common": [
-    "datapack enable <name: string> after <existing: string>",
-    "datapack enable <name: string> before <existing: string>",
-    "datapack enable <name: string> last",
-    "datapack enable <name: string> first",
-    "datapack disable <name: string>",
+    "datapack disable <name>",
+    "datapack enable <name> after <existing>",
+    "datapack enable <name> before <existing>",
+    "datapack enable <name> first",
+    "datapack enable <name> last",
     "datapack list available",
     "datapack list enabled"
   ]

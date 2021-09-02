@@ -1,5 +1,5 @@
 {
   "common": [
-    "publish <port: integer>"
+    "publish <port>"
   ]
 }

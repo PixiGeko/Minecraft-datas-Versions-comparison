@@ -1,7 +1,0 @@
-{
-  "common": [
-    "basalt[axis=x]",
-    "basalt[axis=y]",
-    "basalt[axis=z]"
-  ]
-}

@@ -1,5 +1,5 @@
 {
   "common": [
-    "tellraw <targets: entity> <message: component>"
+    "tellraw <targets> <message>"
   ]
 }

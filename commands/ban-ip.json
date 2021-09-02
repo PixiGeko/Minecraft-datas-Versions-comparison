@@ -1,5 +1,5 @@
 {
   "common": [
-    "ban-ip <target: string> <reason: message>"
+    "ban-ip <target> <reason>"
   ]
 }

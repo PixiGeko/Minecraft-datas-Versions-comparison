@@ -1,7 +1,0 @@
-{
-  "common": [
-    "deepslate[axis=x]",
-    "deepslate[axis=y]",
-    "deepslate[axis=z]"
-  ]
-}

@@ -1,10 +1,9 @@
 {
-  "common": [
+  "added": [
     "minecraft:banner",
     "minecraft:barrel",
     "minecraft:beacon",
     "minecraft:bed",
-    "minecraft:beehive",
     "minecraft:bell",
     "minecraft:blast_furnace",
     "minecraft:brewing_stand",
@@ -27,7 +26,6 @@
     "minecraft:lectern",
     "minecraft:mob_spawner",
     "minecraft:piston",
-    "minecraft:sculk_sensor",
     "minecraft:shulker_box",
     "minecraft:sign",
     "minecraft:skull",

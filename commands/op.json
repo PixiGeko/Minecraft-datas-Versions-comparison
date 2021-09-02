@@ -1,5 +1,5 @@
 {
   "common": [
-    "op <targets: game_profile>"
+    "op <targets>"
   ]
 }

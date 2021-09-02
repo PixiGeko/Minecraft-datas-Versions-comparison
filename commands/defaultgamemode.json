@@ -1,8 +1,8 @@
 {
   "common": [
-    "defaultgamemode survival",
-    "defaultgamemode creative",
     "defaultgamemode adventure",
-    "defaultgamemode spectator"
+    "defaultgamemode creative",
+    "defaultgamemode spectator",
+    "defaultgamemode survival"
   ]
 }

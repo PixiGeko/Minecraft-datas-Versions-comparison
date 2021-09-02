@@ -1,5 +1,5 @@
 {
   "common": [
-    "spawnpoint <targets: entity> <pos: block_pos> <angle: angle>"
+    "spawnpoint <targets> <pos>"
   ]
 }

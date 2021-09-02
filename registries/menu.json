@@ -1,10 +1,10 @@
 {
-  "common": [
+  "added": [
     "minecraft:anvil",
     "minecraft:beacon",
     "minecraft:blast_furnace",
     "minecraft:brewing_stand",
-    "minecraft:cartography_table",
+    "minecraft:cartography",
     "minecraft:crafting",
     "minecraft:enchantment",
     "minecraft:furnace",
@@ -21,7 +21,6 @@
     "minecraft:loom",
     "minecraft:merchant",
     "minecraft:shulker_box",
-    "minecraft:smithing",
     "minecraft:smoker",
     "minecraft:stonecutter"
   ]

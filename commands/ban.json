@@ -1,5 +1,5 @@
 {
   "common": [
-    "ban <targets: game_profile> <reason: message>"
+    "ban <targets> <reason>"
   ]
 }

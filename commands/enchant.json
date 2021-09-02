@@ -1,5 +1,5 @@
 {
   "common": [
-    "enchant <targets: entity> <enchantment: item_enchantment> <level: integer>"
+    "enchant <targets> <enchantment> <level>"
   ]
 }

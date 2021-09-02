@@ -1,5 +1,5 @@
 {
   "common": [
-    "pardon-ip <target: string>"
+    "pardon-ip <target>"
   ]
 }

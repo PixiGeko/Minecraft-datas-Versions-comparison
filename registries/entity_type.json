@@ -1,11 +1,9 @@
 {
-  "common": [
+  "added": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
     "minecraft:arrow",
-    "minecraft:axolotl",
     "minecraft:bat",
-    "minecraft:bee",
     "minecraft:blaze",
     "minecraft:boat",
     "minecraft:cat",
@@ -40,11 +38,7 @@
     "minecraft:furnace_minecart",
     "minecraft:ghast",
     "minecraft:giant",
-    "minecraft:glow_item_frame",
-    "minecraft:glow_squid",
-    "minecraft:goat",
     "minecraft:guardian",
-    "minecraft:hoglin",
     "minecraft:hopper_minecart",
     "minecraft:horse",
     "minecraft:husk",
@@ -57,7 +51,6 @@
     "minecraft:llama",
     "minecraft:llama_spit",
     "minecraft:magma_cube",
-    "minecraft:marker",
     "minecraft:minecart",
     "minecraft:mooshroom",
     "minecraft:mule",
@@ -67,8 +60,6 @@
     "minecraft:parrot",
     "minecraft:phantom",
     "minecraft:pig",
-    "minecraft:piglin",
-    "minecraft:piglin_brute",
     "minecraft:pillager",
     "minecraft:player",
     "minecraft:polar_bear",
@@ -92,7 +83,6 @@
     "minecraft:spider",
     "minecraft:squid",
     "minecraft:stray",
-    "minecraft:strider",
     "minecraft:tnt",
     "minecraft:tnt_minecart",
     "minecraft:trader_llama",
@@ -108,10 +98,9 @@
     "minecraft:wither_skeleton",
     "minecraft:wither_skull",
     "minecraft:wolf",
-    "minecraft:zoglin",
     "minecraft:zombie",
     "minecraft:zombie_horse",
-    "minecraft:zombie_villager",
-    "minecraft:zombified_piglin"
+    "minecraft:zombie_pigman",
+    "minecraft:zombie_villager"
   ]
 }

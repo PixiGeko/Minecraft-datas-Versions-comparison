@@ -1,5 +1,5 @@
 {
   "common": [
-    "msg <targets: entity> <message: message>"
+    "msg <targets> <message>"
   ]
 }

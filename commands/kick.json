@@ -1,5 +1,5 @@
 {
   "common": [
-    "kick <targets: entity> <reason: message>"
+    "kick <targets> <reason>"
   ]
 }

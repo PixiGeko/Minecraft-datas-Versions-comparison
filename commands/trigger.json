@@ -1,6 +1,6 @@
 {
   "common": [
-    "trigger <objective: objective> add <value: integer>",
-    "trigger <objective: objective> set <value: integer>"
+    "trigger <objective> add <value>",
+    "trigger <objective> set <value>"
   ]
 }

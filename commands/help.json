@@ -1,5 +1,5 @@
 {
   "common": [
-    "help <command: string>"
+    "help <command>"
   ]
 }
