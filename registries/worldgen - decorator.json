@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:surface_relative_threshold"
+    "minecraft:block_filter",
+    "minecraft:block_survives_filter"
   ],
   "common": [
     "minecraft:carving_mask",
@@ -22,6 +23,7 @@
     "minecraft:range",
     "minecraft:spread_32_above",
     "minecraft:square",
+    "minecraft:surface_relative_threshold",
     "minecraft:water_depth_threshold"
   ]
 }

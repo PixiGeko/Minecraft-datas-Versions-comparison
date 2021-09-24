@@ -1,8 +1,8 @@
 {
   "added": [
-    "minecraft:dual_noise_2d_provider",
-    "minecraft:noise_2d_cutoff_provider",
-    "minecraft:noise_2d_provider"
+    "minecraft:dual_noise_provider",
+    "minecraft:noise_provider",
+    "minecraft:noise_threshold_provider"
   ],
   "common": [
     "minecraft:randomized_int_state_provider",
@@ -11,7 +11,8 @@
     "minecraft:weighted_state_provider"
   ],
   "removed": [
-    "minecraft:forest_flower_provider",
-    "minecraft:plain_flower_provider"
+    "minecraft:dual_noise_2d_provider",
+    "minecraft:noise_2d_cutoff_provider",
+    "minecraft:noise_2d_provider"
   ]
 }

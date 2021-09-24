@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "jfr start",
     "jfr stop"
   ]

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:jfr"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",
@@ -29,6 +26,7 @@
     "minecraft:give",
     "minecraft:help",
     "minecraft:item",
+    "minecraft:jfr",
     "minecraft:kick",
     "minecraft:kill",
     "minecraft:list",
